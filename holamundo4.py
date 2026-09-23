@@ -1,6 +1,7 @@
 from pathlib import Path
 from saludo import Saludo
 
+
 if __name__ == '__main__':
     misaludo = Saludo()
     print(f"Hola mundo desde {Path(__file__).name} que está en {Path(__file__).parent}")
