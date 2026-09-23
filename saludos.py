@@ -1,4 +1,4 @@
-class Saludo:
+class Saludar:
     """Clase que representa un saludo."""
 
     # def __init__(self):
