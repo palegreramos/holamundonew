@@ -2,7 +2,7 @@ class Saludar:
     """Clase que representa un saludo."""
 
     # def __init__(self):
-    #     """no es obligatorio poner el constructor si no hace nada pero es recomendable ponerlo para que quede claro que la clase tiene un constructor"""
+    #     """no es obligatorio poner el constructor si no hace nada pero lo pongo para que se vea que la clase tiene un constructor"""
     #     pass
 
     def hola(self):
