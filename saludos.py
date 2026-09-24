@@ -6,5 +6,5 @@ class Saludar:
     #     pass
 
     def hola(self):
-        """Muestra un saludo por pantalla."""
-        print("Hola mundo")
+        """Devuelve un saludo."""
+        return "Hola mundo"
