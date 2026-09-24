@@ -1,5 +1,5 @@
 from pathlib import Path
-#from saludos import Saludar
+#from saludos import Saludar (con esta línea se escribiría Saludar() en vez de saludos.Saludar())
 import saludos
 
 if __name__ == '__main__':
